@@ -9,14 +9,11 @@ Install alexnet using Add-On Explorer
 
 If you use the code, please cite our paper. Thanks!
 
-@inproceedings{Zhang2018AutomatedIO,
-  title={Automated identification of waterpipes on Instagram : an application in feature extraction using Convolutional Neural Network and classification based on Support Vector Machine classifier},
-  author={Youshan Zhang and Jon-Patrick Allem and Bert Unger and Tess Boley Cruz},
-  year={2018}
-}
+Zhang, Youshan & Allem,, Jon-Patrick & Beth Unger, Jennifer & Cruz, Tess. (2018). Automated identification of hookahs (waterpipes) on Instagram: an application in feature extraction using Convolutional Neural Network and Support Vector Machine classification. Journal of Medical Internet Research. 10.2196/10513. 
 
 
 To see the results:
+
 Simple hit:
 cnn_hooka.m
 
