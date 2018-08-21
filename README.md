@@ -14,3 +14,10 @@ If you use the code, please cite our paper. Thanks!
   author={Youshan Zhang and Jon-Patrick Allem and Bert Unger and Tess Boley Cruz},
   year={2018}
 }
+
+
+To see the results:
+Simple hit:
+cnn_hooka.m
+
+Or run test.m in the Testing folder.
